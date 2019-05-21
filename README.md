@@ -1,5 +1,3 @@
-Read Me File
-
 The game will start upon pressing the "Start" button. Once
 the button is pressed the words will start falling from the 
 top of the screen. The player's goal is to type these words
